@@ -1,48 +1,69 @@
 # 👋 Olá! Bem-vindo ao meu GitHub
 
-Sou uma profissional em transição de carreira para a área de **Análise de Dados**, com mais de 5 anos de experiência no setor bancário, atuando com produtos financeiros, atendimento ao cliente e metodologias ágeis.
-Durante minha trajetória, atuei como **Scrum Master**, liderando times ágeis, facilitando cerimônias, removendo impedimentos e promovendo a melhoria contínua.
-Essa experiência fortaleceu minha capacidade de **liderança, colaboração e entrega de valor**, e agora estou aplicando esse mindset no universo dos dados.
+## 💼 Sobre Mim
+Olá! Sou Paloma Beker, profissional em transição de carreira para a área de Análise de Dados, com mais de 5 anos de experiência no setor bancário, atuando nas áreas de atendimento ao cliente, produtos financeiros e metodologias ágeis.
+
+Minha vivência como Scrum Master me proporcionou habilidades sólidas em liderança, comunicação, colaboração entre times e melhoria contínua. Hoje, trago esse mindset ágil para o mundo dos dados, com o objetivo de transformar informações em insights que gerem valor estratégico para os negócios.
 
 ---
 
-## 🚀 Minha Jornada em Dados
+## 🔍 Perfil Profissional
+Formanda em Ciência de Dados (Tecnólogo)
 
-Atualmente estou participando do **bootcamp de Analista de Dados**, onde estou desenvolvendo habilidades em:
+Experiência com SQL, modelagem de dados e análise exploratória
 
-✅ Análise e visualização de dados  
-✅ Manipulação e extração de dados com SQL  
-✅ Criação de dashboards com Power BI  
-✅ Lógica de programação com Python  
-✅ ETL e modelagem de dados  
-✅ Tomada de decisão baseada em dados
+Criação de dashboards interativos no Power BI
+
+Conhecimento basico em Python para análise de dados
+
+Projetos próprios focados em dados reais e resolução de problemas de negócio
+
+Visão orientada à tomada de decisão baseada em dados
+
+---
+## 📊 Minha Jornada em Dados
+
+Durante minha formação em Ciência de Dados e participação em bootcamps, venho me especializando nas seguintes áreas:
+
+- **Manipulação e extração de dados** com SQL
+- **Criação de dashboards interativos** no Power BI
+- **Análise exploratória de dados (EDA)** com Python e Excel
+- **Modelagem relacional de bancos de dados**
+- **Metodologias ágeis aplicadas à análise de dados**
+
+Além disso, desenvolvi projetos práticos que envolvem coleta, limpeza, visualização e interpretação de dados reais — muitos deles disponíveis aqui no meu GitHub.
+
+## 📂 O que você encontrará por aqui:
+
+📊 Dashboards com dados reais para análise de comportamento de consumidores
+
+🗃️ Modelagens de banco de dados relacionais aplicadas a cenários reais de negócio
+
+🧮 Consultas SQL para extração e manipulação de dados
+
+📈 Estudos de caso completos, com documentação clara e foco em insights acionáveis
+
 
 ---
 
-## 📚 O que você encontrará aqui:
+## 🧠 Interesses Atuais
 
-Em breve, meus repositórios vão conter:
+Business Intelligence & Visualização de Dados
 
-- Projetos práticos do bootcamp
-- Análises com conjuntos de dados reais
-- Dashboards em Power BI
-- Scripts SQL para consulta e manipulação de dados
-- Estudos e resumos das ferramentas que estou aprendendo
+Bancos de Dados Relacionais & NoSQL
 
----
+ETL e Engenharia de Dados
 
-## 🧠 Próximos passos
+Análise de Dados Aplicada a Negócios
 
-- Finalizar os primeiros desafios com SQL e Power BI  
-- Publicar meu primeiro projeto de análise de dados  
-- Compartilhar aprendizados e boas práticas em repositórios temáticos  
+Inclusão, inovação e impacto social por meio da tecnologia
 
 ---
 
-## 💬 Sobre mim
+🌱 Em constante evolução
+Atualmente, estou desenvolvendo novos projetos que integram minha bagagem em agilidade, minha vivência no mercado financeiro e minha paixão por dados. Meu objetivo é trazer soluções práticas e orientadas por dados para problemas reais.
 
-Sou movida por desafios e apaixonada por transformar dados em decisões. Minha experiência como **Scrum Master** me ensinou a importância da colaboração, 
-agilidade e entrega de valor — e agora quero aplicar isso no universo dos dados! 💡
+Se você quiser acompanhar minha jornada ou colaborar, fique à vontade para explorar meus repositórios ou entrar em contato!
 
 ---
 
